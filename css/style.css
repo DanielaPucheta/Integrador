@@ -1,1 +1,26 @@
-main {background:url('img/ba1.jpg')}
+body{
+    padding: auto;
+    border: 0ch;
+    margin: 30px;
+
+
+}
+
+#divclass{
+    background-color: black;
+    text-align: left;
+    
+
+}
+.lorem{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#form{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#buttonclass{
+    background-color: #260D6A;
+}

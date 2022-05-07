@@ -2,25 +2,28 @@ body{
     padding: auto;
     border: 0ch;
     margin: 30px;
-
-
+    font-size: 100%;
+    text-align:right;
+    align-items: flex-end;
 }
 
-#divclass{
-    background-color: black;
-    text-align: left;
+#card-group{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+#navbarNav2{
     
+justify-content: center;
+background-color:#003399);
+}
 
+#row1{
+    justify-content: center;
 }
-.lorem{
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 200px;
-    margin-right: 200px;
-}
-#form{
-    margin-left: 200px;
-    margin-right: 200px;
-}
-#buttonclass{
-    background-color: #260D6A;
-}
+
+
+
+
